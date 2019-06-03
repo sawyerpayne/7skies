@@ -18,5 +18,7 @@ Version 0.1:
     
     -X to delete save
 
-    -E to spawn enemy ship        
+    -E to spawn enemy ship 
+
+    -Escape to pause   
  
